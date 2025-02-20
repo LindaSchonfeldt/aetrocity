@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LindaSchonfeldt
 - 👀 I’m interested in interaction design, psychology and self development. 
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything that sparks my interest. 
 - 📫 How to reach me: Discord (@LindaS#6832)
 
