@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aetrocity
+- 👋 Hi, I’m @LindaSchonfeldt
 - 👀 I’m interested in interaction design, psychology and self development. 
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on anything that sparks my interest. 
